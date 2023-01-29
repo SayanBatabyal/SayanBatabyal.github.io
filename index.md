@@ -21,4 +21,4 @@ This is my personal blog where I will share my daily works.
 
 This site is under construction.
 
-<footer> Made by Sayan Batabyal (<a href='mailto:sayanb6292@gmail.com'>sayanb6292@gmail.com</a>)</footer>
+<footer style = 'float: right'> Made by Sayan Batabyal (<a href='mailto:sayanb6292@gmail.com'>sayanb6292@gmail.com</a>)</footer>
