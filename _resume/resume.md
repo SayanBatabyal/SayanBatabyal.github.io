@@ -8,7 +8,7 @@ title: Sayan's Resume
 
 <ul class="nav">
     <li class="nav"><a href="../index.html">Home</a></li>
-    <li class="nav"><a class="active" href="./_resume/resume.html">Resume</a></li>
+    <li class="nav"><a class="active" href="./resume.html">Resume</a></li>
 </ul>
 
 
