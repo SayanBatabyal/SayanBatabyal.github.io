@@ -22,13 +22,19 @@ title: Sayan's Resume
 <hr>
 <h3 style = 'margin-left: 10px'>EXPERIENCE</h3>
 
-<span>
-    <span style = 'float: left; margin-left: 20px'>**Caterpillar Inc.**: Virtual Product Development</span>
-    <span style="float:right;">Chennai, IN</span> <br>
-    <span style = 'float: left; margin-left: 20px'>Associate Engineer: Simulation</span>
-    <span style="float:right;">July 2021 - Present</span>
-</span>
-<br>
+<table style='width: 98%; margin-left: 20px'>
+    <tbody>
+        <tr>
+            <td>**Caterpillar Inc.**: Virtual Product Development</td>
+            <td style = 'text-align: right'>Chennai, IN</td>
+        </tr>
+        <tr>
+            <td>Associate Engineer: Simulation</td>
+            <td style = 'text-align: right'>July 2021 - Present</td>
+        </tr>
+    </tbody>
+</table>
+
 <ul style = 'text-align: justify'>
     <li data-list-text = '-'>Independently supported design and development activities on Large Mining Trucks, Off-Highway Trucks (dump-bodies) and Wheel Tractor Scrapers: linear and non-linear analysis, stress recovery and fatigue evaluation of flexible bodies.</li>
     <li data-list-text = '-'>Supported several key NPI and CPI projects with fast analysis turn-around. Notable ones are modular LMT bodies, domestic production of LMT and OHT bodies.</li>
