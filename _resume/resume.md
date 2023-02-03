@@ -78,7 +78,7 @@ title: Sayan's Resume
 
 <!-- Technical Strengths -->
 <hr>
-<h3 style = 'margin-left: 10px'>TECHNICAL STTRENGTHS</h3>
+<h3 style = 'margin-left: 10px'>TECHNICAL STRENGTHS</h3>
 
 <ul style = 'text-align: justify'>
     <li> <span style = 'font-weight: bold'>Simulation Packages</span>: Nastran, Abaqus, Fe-Safe
