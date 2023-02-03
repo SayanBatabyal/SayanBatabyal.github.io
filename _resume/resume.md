@@ -22,7 +22,7 @@ title: Sayan's Resume
 <hr>
 <h3 style = 'margin-left: 10px'>EXPERIENCE</h3>
 
-<table style='width: 98%; margin-left: 20px'>
+<table style='width: 98%; margin-left: 20px; border-collapse: collapse'>
     <tbody>
         <tr>
             <td>**Caterpillar Inc.**: Virtual Product Development</td>
@@ -46,25 +46,40 @@ title: Sayan's Resume
 <hr>
 <h3 style = 'margin-left: 10px'>EDUCATION</h3>
 
-<span>
-    <span style = 'float: left; margin-left: 20px'>**Indian Institute of Technology** (IIT)</span>
-    <span style="float:right;">Kharagpur, IN</span> <br>
-    <span style = 'float: left; margin-left: 20px'>M.Tech in Mechanical Engineering</span>
-    <span style="float:right;">June, 2021</span> <br>
-    <span style = 'float: left; margin-left: 20px'>Specialisation in Mechanical Systems Design </span> <br>
-    <span style = 'float: left; margin-left: 20px'>Overall GPA: 9.44/10 </span>
-</span>
-<br>
+<table style='width: 98%; margin-left: 20px; border-collapse: collapse'>
+    <tbody>
+        <tr>
+            <td>**Indian Institute of Technology** (IIT)</td>
+            <td style = 'text-align: right'>Kharagpur, IN</td>
+        </tr>
+        <tr>
+            <td>M.Tech in Mechanical Engineering</td>
+            <td style = 'text-align: right'>June, 2021</td>
+        </tr>
+        <tr>
+            <td>Specialisation in Mechanical Systems Design</td>
+        </tr>
+        <tr>
+            <td>Overall GPA: 9.44/10</td>
+        </tr>
+    </tbody>
+</table>
 
-<span>
-    <span style = 'float: left; margin-left: 20px'>**Indian Institute of Engineering Science and Technology** (IIEST)</span>
-    <span style="float:right;">Shibpur, IN</span> <br>
-    <span style = 'float: left; margin-left: 20px'>B.Tech in Aerospace Engineering</span>
-    <span style="float:right;">June, 2019</span> <br>
-    <span style = 'float: left; margin-left: 20px'>Specialisation in Mechanical Systems Design </span> <br>
-    <span style = 'float: left; margin-left: 20px'>Overall GPA: 8.14/10 </span>
-</span>
-<br>
+<table style='width: 98%; margin-left: 20px; border-collapse: collapse'>
+    <tbody>
+        <tr>
+            <td>**Indian Institute of Engineering Science and Technology** (IIEST)</td>
+            <td style = 'text-align: right'>Shibpur, IN</td>
+        </tr>
+        <tr>
+            <td>B.Tech in Aerospace Engineering</td>
+            <td style = 'text-align: right'>June, 2019</td>
+        </tr>
+        <tr>
+            <td>Overall GPA: 8.14/10</td>
+        </tr>
+    </tbody>
+</table>
 
 <!-- Publication -->
 <hr>
