@@ -92,6 +92,6 @@ title: Sayan's Resume
 </ul>
 
 <footer>
-    <span style = 'float: left'> <a href = 'resume.pdf'>Download as pdf</a></span>
+    <!-- <span style = 'float: left'> <a href = 'resume.pdf'>Download as pdf</a></span> -->
     <span style = 'float: right'>Made by Sayan Batabyal (<a href='mailto:sayanb6292@gmail.com'>sayanb6292@gmail.com</a>)</span>
 </footer>
